@@ -1,0 +1,73 @@
+text,label,category,language,source_type,source_id
+This hiring message says the job is confirmed if the applicant transfers a registration fee today.,scam,job,en,synthetic,synthetic-validation-001
+"Job confirm hai, bas registration fee aaj transfer karo aur selection complete.",scam,job,hinglish,synthetic,synthetic-validation-002
+"नौकरी पक्की है, बस आज पंजीकरण शुल्क भेजें।",scam,job,hi,synthetic,synthetic-validation-003
+"A local employer describes the office location, duties, required skills, and a normal interview process for its vacancy.",legitimate,job,en,synthetic,synthetic-validation-004
+"Local employer ne duties, skills aur office location share ki; selection interview ke baad hoga.",legitimate,job,hinglish,synthetic,synthetic-validation-005
+"स्थानीय नियोक्ता ने कार्य, आवश्यक कौशल और कार्यालय का पता बताता है।",legitimate,job,hi,synthetic,synthetic-validation-006
+Someone forwarded a vacancy with an employer name but no link to its official careers page or named contact.,ambiguous,job,en,synthetic,synthetic-validation-007
+"Forwarded vacancy mein company ka naam hai, par official careers link ya named contact nahi.",ambiguous,job,hinglish,synthetic,synthetic-validation-008
+"नौकरी के प्रस्ताव में कंपनी का नाम है, पर आधिकारिक लिंक नहीं।",ambiguous,job,hi,synthetic,synthetic-validation-009
+The recruiter says an internship seat is reserved only after a candidate pays a training registration charge.,scam,internship,en,synthetic,synthetic-validation-010
+Training internship seat reserve karne ke liye recruiter registration charge maang raha hai.,scam,internship,hinglish,synthetic,synthetic-validation-011
+प्रशिक्षण स्टार्ट होने से पहले रजिस्ट्रेशन फीस जमा करने को कहा।,scam,internship,hi,synthetic,synthetic-validation-012
+The employer describes a skills interview and a written internship agreement; there is no application or certificate charge.,legitimate,internship,en,synthetic,synthetic-validation-013
+Employer skills interview aur written agreement batata hai; koi application ya certificate charge nahi.,legitimate,internship,hinglish,synthetic,synthetic-validation-014
+नियोक्ता ने कौशल साक्षात्कार और लिखित समझौता दिया; आवेदन शुल्क नहीं है।,legitimate,internship,hi,synthetic,synthetic-validation-015
+The internship post names a startup and dates but gives no details about the selection steps or written agreement.,ambiguous,internship,en,synthetic,synthetic-validation-016
+"Startup ka naam aur dates hain, lekin selection steps ya agreement ka detail missing hai.",ambiguous,internship,hinglish,synthetic,synthetic-validation-017
+"स्टार्टअप का नाम और तारीख दी है, लेकिन चयन के चरण नहीं दिए।",ambiguous,internship,hi,synthetic,synthetic-validation-018
+The recruiter promises fixed pay for simple remote work but requires an advance kit payment to begin.,scam,work_from_home,en,synthetic,synthetic-validation-019
+"Simple remote work ki fixed earning, bas starter kit ka advance payment karo.",scam,work_from_home,hinglish,synthetic,synthetic-validation-020
+"सरल दूरस्थ काम के लिए निश्चित भुगतान का वादा, पर पहले किट फीस दें।",scam,work_from_home,hi,synthetic,synthetic-validation-021
+A company offers hybrid customer support work with a written contract and a public careers page.,legitimate,work_from_home,en,synthetic,synthetic-validation-022
+Company hybrid customer support ka written contract aur public careers page deti hai.,legitimate,work_from_home,hinglish,synthetic,synthetic-validation-023
+कंपनी ने लिखित अनुबंध के साथ हाइब्रिड सहायता का काम दिया।,legitimate,work_from_home,hi,synthetic,synthetic-validation-024
+The home-based role has an hourly range but the message gives no contract or hiring contact.,ambiguous,work_from_home,en,synthetic,synthetic-validation-025
+"Ghar se role ka hourly range hai, lekin contract ya hiring contact nahi diya.",ambiguous,work_from_home,hinglish,synthetic,synthetic-validation-026
+"घर से काम का दैनिक समय दिया है, पर कार्य का विवरण नहीं।",ambiguous,work_from_home,hi,synthetic,synthetic-validation-027
+The app promises money for likes but demands a deposit before it releases the displayed balance.,scam,task,en,synthetic,synthetic-validation-028
+"Likes ke paise milenge, lekin balance release hone se pehle deposit maangte hain.",scam,task,hinglish,synthetic,synthetic-validation-029
+"लाइक करके कमाई मिलने का वादा है, पर बैलेंस निकालने से पहले जमा राशि मांगी।",scam,task,hi,synthetic,synthetic-validation-030
+The company pays a published rate for usability tests and lists the task rules and payout schedule.,legitimate,task,en,synthetic,synthetic-validation-031
+"Company usability tests ka rate, task rules aur payout schedule publish karti hai.",legitimate,task,hinglish,synthetic,synthetic-validation-032
+कंपनी परीक्षण का दर और भुगतान समय सार्वजनिक करती है।,legitimate,task,hi,synthetic,synthetic-validation-033
+"The task post lists review work and earnings but gives no terms for fees, refunds, or withdrawals.",ambiguous,task,en,synthetic,synthetic-validation-034
+"Review work aur earning likhi hai, lekin fee, refund ya withdrawal terms nahi.",ambiguous,task,hinglish,synthetic,synthetic-validation-035
+"समीक्षा का काम और कमाई लिखी है, पर भुगतान नियम नहीं हैं।",ambiguous,task,hi,synthetic,synthetic-validation-036
+The notice promises a free laptop grant and asks applicants to pay a small fee to a personal wallet.,scam,government_scheme,en,synthetic,synthetic-validation-037
+Free laptop grant ke naam par personal wallet mein chhoti fee maang rahe hain.,scam,government_scheme,hinglish,synthetic,synthetic-validation-038
+निशुल्क लैपटॉप अनुदान के लिए निजी वॉलेट में फीस देने को कहा।,scam,government_scheme,hi,synthetic,synthetic-validation-039
+"A district office posts scheme dates, eligibility documents, and an official helpdesk; it does not request payment by UPI.",legitimate,government_scheme,en,synthetic,synthetic-validation-040
+"District office scheme dates, documents aur official helpdesk deta hai; UPI payment nahi maangta.",legitimate,government_scheme,hinglish,synthetic,synthetic-validation-041
+"जिला कार्यालय योजना की तारीख, योग्यता और सहायता नंबर देता है।",legitimate,government_scheme,hi,synthetic,synthetic-validation-042
+The benefit message lists an application date but does not identify which agency manages the programme.,ambiguous,government_scheme,en,synthetic,synthetic-validation-043
+Benefit message application date deta hai par agency ka naam nahi batata.,ambiguous,government_scheme,hinglish,synthetic,synthetic-validation-044
+"लाभ संदेश में आवेदन की तारीख है, पर योजना चलाने वाली एजेंसी स्पष्ट नहीं।",ambiguous,government_scheme,hi,synthetic,synthetic-validation-045
+The provider asks applicants to transfer a verification fee before it will share the scholarship eligibility rules.,scam,scholarship,en,synthetic,synthetic-validation-046
+Eligibility rules bhejne se pehle provider verification fee transfer karne ko kehta hai.,scam,scholarship,hinglish,synthetic,synthetic-validation-047
+पात्रता नियम बताने से पहले सत्यापन शुल्क मांगा गया।,scam,scholarship,hi,synthetic,synthetic-validation-048
+A public scholarship notice explains that applications are free and directs students to confirm details with the named college office.,legitimate,scholarship,en,synthetic,synthetic-validation-049
+Notice kehta hai form free hai aur students college office se details confirm kar sakte hain.,legitimate,scholarship,hinglish,synthetic,synthetic-validation-050
+सार्वजनिक सूचना में फॉर्म निशुल्क है और कॉलेज कार्यालय से जांच करने को कहा है।,legitimate,scholarship,hi,synthetic,synthetic-validation-051
+The message says students may qualify for an education award but does not identify the sponsoring institution.,ambiguous,scholarship,en,synthetic,synthetic-validation-052
+"Education award mil sakta hai likha hai, lekin sponsoring institution identify nahi.",ambiguous,scholarship,hinglish,synthetic,synthetic-validation-053
+"शिक्षा अनुदान का विवरण है, पर दाता संस्था का नाम नहीं।",ambiguous,scholarship,hi,synthetic,synthetic-validation-054
+A message impersonating a delivery service asks users to enter their password to release a parcel.,scam,phishing,en,synthetic,synthetic-validation-055
+Delivery service ke naam par parcel release karne ke liye password maangte hain.,scam,phishing,hinglish,synthetic,synthetic-validation-056
+पार्सल छुड़ाने के लिए अनजान लिंक पर पासवर्ड मांगा।,scam,phishing,hi,synthetic,synthetic-validation-057
+A delivery update gives a tracking number and tells recipients to use the carrier's known website; it asks for no password.,legitimate,phishing,en,synthetic,synthetic-validation-058
+Delivery update tracking number deta hai aur known carrier site use karne ko kehta hai; password nahi maangta.,legitimate,phishing,hinglish,synthetic,synthetic-validation-059
+डिलीवरी सूचना ट्रैकिंग नंबर देती है और जाने-पहचाने वाली वेबसाइट का उपयोग करने को कहती है।,legitimate,phishing,hi,synthetic,synthetic-validation-060
+A delivery text contains a tracking link but does not identify the carrier clearly.,ambiguous,phishing,en,synthetic,synthetic-validation-061
+"Delivery text mein tracking link hai, lekin carrier ka naam clearly nahi.",ambiguous,phishing,hinglish,synthetic,synthetic-validation-062
+"डिलीवरी संदेश में ट्रैकिंग लिंक है, पर वाहक का नाम नहीं।",ambiguous,phishing,hi,synthetic,synthetic-validation-063
+A job recruiter shares http://bit.ly/instant-offer and asks candidates to enter an OTP.,scam,url,en,synthetic,synthetic-validation-064
+Job recruiter http://bit.ly/instant-offer bhejkar candidates se OTP maangta hai.,scam,url,hinglish,synthetic,synthetic-validation-065
+भर्ती संदेश असुरक्षित लिंक से ओटीपी मांगता है।,scam,url,hi,synthetic,synthetic-validation-066
+A known employer shares its public careers page and says it will never collect an OTP through a job link.,legitimate,url,en,synthetic,synthetic-validation-067
+Employer public careers page share karta hai aur job link par OTP nahi maangta.,legitimate,url,hinglish,synthetic,synthetic-validation-068
+नियोक्ता आधिकारिक करियर पेज देता है और लिंक पर ओटीपी नहीं मांगता।,legitimate,url,hi,synthetic,synthetic-validation-069
+A recruiter shares a web address that resembles an employer name but the organisation has not confirmed it.,ambiguous,url,en,synthetic,synthetic-validation-070
+"Recruiter ka web address company naam jaisa hai, par organisation ne confirm nahi kiya.",ambiguous,url,hinglish,synthetic,synthetic-validation-071
+"भर्ती वेब पता कंपनी जैसा है, पर संस्था ने पुष्टि नहीं की।",ambiguous,url,hi,synthetic,synthetic-validation-072

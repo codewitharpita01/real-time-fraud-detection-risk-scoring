@@ -1,0 +1,73 @@
+text,label,category,language,source_type,source_id
+A remote data-entry recruiter promises high daily pay but requires a joining deposit before sending an offer letter.,scam,job,en,synthetic,synthetic-train-001
+"Remote data entry job, roz ₹3000 pakka; offer letter se pehle joining deposit bhejo.",scam,job,hinglish,synthetic,synthetic-train-002
+घर बैठे काम के लिए ऑफर लेटर से पहले जॉइनिंग फीस जमा करें।,scam,job,hi,synthetic,synthetic-train-003
+"The company careers page lists a software support role, salary range, interview steps, and application portal; it does not request payment.",legitimate,job,en,synthetic,synthetic-train-004
+"Company ki careers site par role, salary range aur interview steps diye hain; apply official website se hai, koi fee nahi.",legitimate,job,hinglish,synthetic,synthetic-train-005
+"कंपनी की करियर वेबसाइट पर पद, योग्यता और साक्षात्कार की जानकारी है; आवेदन निशुल्क है।",legitimate,job,hi,synthetic,synthetic-train-006
+A message offers a remote assistant job with few duty details and says a recruiter will explain the process later.,ambiguous,job,en,synthetic,synthetic-train-007
+"Remote assistant job ka message aaya, duties kam explain ki hain; recruiter baad mein details batayega.",ambiguous,job,hinglish,synthetic,synthetic-train-008
+दूरस्थ सहायक पद की सूचना में कार्य का विवरण कम है।,ambiguous,job,hi,synthetic,synthetic-train-009
+An internship offer guarantees selection and asks for a certificate fee before any interview or work details are provided.,scam,internship,en,synthetic,synthetic-train-010
+"Internship selection guaranteed bolte hain, interview se pehle certificate fee pay karni hai.",scam,internship,hinglish,synthetic,synthetic-train-011
+इंटर्नशिप पक्की बताकर सर्टिफिकेट शुल्क पहले मांगा गया।,scam,internship,hi,synthetic,synthetic-train-012
+"A college internship notice lists a supervisor, learning goals, duration, stipend terms, and a university application process.",legitimate,internship,en,synthetic,synthetic-train-013
+"College internship notice mein mentor, learning goals, duration aur stipend terms diye; apply university process se karo.",legitimate,internship,hinglish,synthetic,synthetic-train-014
+"विश्वविद्यालय की इंटर्नशिप सूचना में मेंटर, सीखने के लक्ष्य और आवेदन प्रक्रिया है।",legitimate,internship,hi,synthetic,synthetic-train-015
+"A small organisation offers an internship but does not describe its supervisor, learning plan, or stipend clearly.",ambiguous,internship,en,synthetic,synthetic-train-016
+"Chhoti organisation internship de rahi hai, par mentor, learning plan aur stipend clear nahi hai.",ambiguous,internship,hinglish,synthetic,synthetic-train-017
+"एक छोटी संस्था इंटर्नशिप दे रही है, पर सीखने की योजना स्पष्ट नहीं।",ambiguous,internship,hi,synthetic,synthetic-train-018
+A home-based typing offer guarantees a large daily income and asks applicants to transfer a refundable starter deposit.,scam,work_from_home,en,synthetic,synthetic-train-019
+"Ghar baithe typing se roz ₹3000 pakka, kaam shuru karne se pehle refundable deposit bhejo.",scam,work_from_home,hinglish,synthetic,synthetic-train-020
+घर से काम करके नियत दैनिक आमदनी का वादा और पहले जमा राशि मांगी गई।,scam,work_from_home,hi,synthetic,synthetic-train-021
+"The remote support employer lists shifts, tools, salary dates, and an interview with the named hiring team; no deposit is requested.",legitimate,work_from_home,en,synthetic,synthetic-train-022
+"Remote support role mein shifts, tools aur salary date clear hain; hiring team interview leti hai, koi deposit nahi.",legitimate,work_from_home,hinglish,synthetic,synthetic-train-023
+"दूरस्थ सहायता की नौकरी में शिफ्ट, साधन और भुगतान दिन स्पष्ट हैं।",legitimate,work_from_home,hi,synthetic,synthetic-train-024
+A forwarded remote work offer lists flexible hours but does not identify the employer or exact tasks.,ambiguous,work_from_home,en,synthetic,synthetic-train-025
+"Forwarded remote job mein flexible hours hain, par employer aur tasks identify nahi kiye.",ambiguous,work_from_home,hinglish,synthetic,synthetic-train-026
+"दूरस्थ काम की सूचना में लचीले समय है, पर नियोक्ता का नाम नहीं।",ambiguous,work_from_home,hi,synthetic,synthetic-train-027
+A review task group says users must recharge an account to unlock the next batch and withdraw earlier earnings.,scam,task,en,synthetic,synthetic-train-028
+Review tasks ke next batch aur withdrawal unlock karne ke liye account recharge karo.,scam,task,hinglish,synthetic,synthetic-train-029
+रिव्यू टास्क खोलने और पैसे निकालने के लिए पहले अकाउंट रीचार्ज करें।,scam,task,hi,synthetic,synthetic-train-030
+A university research survey offers optional gift cards after a clearly described questionnaire and does not ask participants to deposit money.,legitimate,task,en,synthetic,synthetic-train-031
+"University survey clearly questionnaire batata hai; optional gift card hai, deposit nahi maangta.",legitimate,task,hinglish,synthetic,synthetic-train-032
+विश्वविद्यालय सर्वे में स्पष्ट प्रश्नावली और इच्छानुसार गिफ्ट कार्ड है।,legitimate,task,hi,synthetic,synthetic-train-033
+A message offers paid online tasks but does not explain who runs the platform or how payouts work.,ambiguous,task,en,synthetic,synthetic-train-034
+"Online tasks ke paise bolte hain, par platform ka owner ya payout process explain nahi.",ambiguous,task,hinglish,synthetic,synthetic-train-035
+"ऑनलाइन काम के पैसे बताए गए, पर मंच को कौन चलाता है नहीं बताया।",ambiguous,task,hi,synthetic,synthetic-train-036
+A benefit message says a household subsidy will be released only after a processing payment to an individual's UPI account.,scam,government_scheme,en,synthetic,synthetic-train-037
+Subsidy release karne ke liye processing payment ek person ke UPI par bhejne ko bolte hain.,scam,government_scheme,hinglish,synthetic,synthetic-train-038
+सरकारी लाभ के लिए निजी यूपीआई पर प्रोसेसिंग शुल्क मांगा।,scam,government_scheme,hi,synthetic,synthetic-train-039
+The notice describes a public benefit and directs readers to check eligibility on the named government portal reached independently.,legitimate,government_scheme,en,synthetic,synthetic-train-040
+Benefit notice eligibility check ke liye named government portal par khud jaane ko kehta hai.,legitimate,government_scheme,hinglish,synthetic,synthetic-train-041
+सार्वजनिक लाभ की सूचना पात्रता की जांच के लिए आधिकारिक पोर्टल देखने को कहती है।,legitimate,government_scheme,hi,synthetic,synthetic-train-042
+A forwarded subsidy announcement gives a scheme title but no department name or official source link.,ambiguous,government_scheme,en,synthetic,synthetic-train-043
+"Forwarded subsidy notice mein scheme ka title hai, department ya official link missing hai.",ambiguous,government_scheme,hinglish,synthetic,synthetic-train-044
+सब्सिडी की फॉरवर्ड सूचना में विभाग और आधिकारिक स्रोत नहीं।,ambiguous,government_scheme,hi,synthetic,synthetic-train-045
+A scholarship message guarantees an award if students pay an application processing charge to a personal wallet.,scam,scholarship,en,synthetic,synthetic-train-046
+Scholarship pakki bolkar application processing charge personal wallet mein maanga.,scam,scholarship,hinglish,synthetic,synthetic-train-047
+छात्रवृत्ति पक्की बताकर निजी वॉलेट में आवेदन शुल्क मांगा।,scam,scholarship,hi,synthetic,synthetic-train-048
+"The university scholarship page lists eligibility, award amount, deadline, and an application form on the institution website.",legitimate,scholarship,en,synthetic,synthetic-train-049
+"University scholarship page eligibility, amount aur deadline deti hai; application institution site par hai.",legitimate,scholarship,hinglish,synthetic,synthetic-train-050
+"विश्वविद्यालय छात्रवृत्ति पृष्ठ पात्रता, राशि और अंतिम तारीख बताता है।",legitimate,scholarship,hi,synthetic,synthetic-train-051
+A scholarship announcement mentions a deadline and a provider name but omits the eligibility and application source.,ambiguous,scholarship,en,synthetic,synthetic-train-052
+"Scholarship deadline aur provider ka naam hai, par eligibility aur application source nahi.",ambiguous,scholarship,hinglish,synthetic,synthetic-train-053
+"छात्रवृत्ति सूचना में अंतिम तारीख है, पर पात्रता नहीं।",ambiguous,scholarship,hi,synthetic,synthetic-train-054
+A text claims a bank account will close today and asks the recipient to send an OTP through a link.,scam,phishing,en,synthetic,synthetic-train-055
+Bank account aaj band hoga bolkar link par OTP bhejne ko keh raha hai.,scam,phishing,hinglish,synthetic,synthetic-train-056
+बैंक खाता आज बंद होने का डर दिखाकर ओटीपी मांगी।,scam,phishing,hi,synthetic,synthetic-train-057
+The college IT office reminds students to open the portal from a saved bookmark and says it will never ask for an OTP by message.,legitimate,phishing,en,synthetic,synthetic-train-058
+College IT office kehta hai portal bookmark se kholo; message par OTP kabhi nahi maangega.,legitimate,phishing,hinglish,synthetic,synthetic-train-059
+"कॉलेज आईटी कार्यालय पोर्टल बुकमार्क से खोलने को कहता है, और संदेश में ओटीपी नहीं मांगता।",legitimate,phishing,hi,synthetic,synthetic-train-060
+A login reminder names a service but the recipient did not expect it and cannot tell whether the sender is genuine.,ambiguous,phishing,en,synthetic,synthetic-train-061
+"Login reminder service ka naam leta hai, par sender genuine hai ya nahi clear nahi.",ambiguous,phishing,hinglish,synthetic,synthetic-train-062
+"लॉगिन संदेश सेवा का नाम बताता है, पर भेजने वाले की पहचान स्पष्ट नहीं।",ambiguous,phishing,hi,synthetic,synthetic-train-063
+A scholarship message sends applicants to https://tinyurl.com/claim-award and requests a password on the linked form.,scam,url,en,synthetic,synthetic-train-064
+Scholarship ke naam par https://tinyurl.com/claim-award link aur password form bheja.,scam,url,hinglish,synthetic,synthetic-train-065
+फाउंडेशन पासवर्ड लेने वाला अनजान छोटा लिंक भेजता है।,scam,url,hi,synthetic,synthetic-train-066
+The university website address is printed in the handbook; students are told to type it themselves rather than follow a shortened link.,legitimate,url,en,synthetic,synthetic-train-067
+Handbook mein university website address hai; short link follow karne ke bajay khud type karo.,legitimate,url,hinglish,synthetic,synthetic-train-068
+विश्वविद्यालय का पता हैंडबुक में; लिंक के बजाय पता खुद टाइप करें।,legitimate,url,hi,synthetic,synthetic-train-069
+"An unfamiliar link appears in a forwarded application message, and the sender has not explained where it leads.",ambiguous,url,en,synthetic,synthetic-train-070
+Forwarded application message mein unfamiliar link hai; sender ne destination nahi bataya.,ambiguous,url,hinglish,synthetic,synthetic-train-071
+"आवेदन संदेश में अनजान लिंक है, पर स्रोत समझाया नहीं।",ambiguous,url,hi,synthetic,synthetic-train-072

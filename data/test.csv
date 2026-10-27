@@ -1,0 +1,73 @@
+text,label,category,language,source_type,source_id
+An online recruiter asks candidates to pay a processing charge to reserve a work-from-home vacancy.,scam,job,en,synthetic,synthetic-test-001
+Work from home vacancy reserve karne ke liye processing charge pehle pay karo.,scam,job,hinglish,synthetic,synthetic-test-002
+भर्ती वाले ने प्रोसेसिंग शुल्क देकर पद रोकने को कहा।,scam,job,hi,synthetic,synthetic-test-003
+The university career centre shared a named employer's public job notice and says applications go through the employer website.,legitimate,job,en,synthetic,synthetic-test-004
+University career centre ne public job notice share kiya aur employer ki website par apply karne ko kaha.,legitimate,job,hinglish,synthetic,synthetic-test-005
+विश्वविद्यालय करियर केंद्र ने नियोक्ता की वेबसाइट से आवेदन करने की सूचना दी।,legitimate,job,hi,synthetic,synthetic-test-006
+The job notice gives a broad salary range but leaves the hiring company and interview process unclear.,ambiguous,job,en,synthetic,synthetic-test-007
+"Salary range likhi hai, lekin employer aur interview process clear nahi hai.",ambiguous,job,hinglish,synthetic,synthetic-test-008
+"वेतन की सीमा दी है, लेकिन भर्ती प्रक्रिया स्पष्ट नहीं।",ambiguous,job,hi,synthetic,synthetic-test-009
+A placement message demands a refundable internship deposit through a personal wallet before onboarding.,scam,internship,en,synthetic,synthetic-test-010
+Onboarding se pehle personal wallet par refundable internship deposit bhejne ko kaha.,scam,internship,hinglish,synthetic,synthetic-test-011
+निजी वॉलेट में वापस होने वाला इंटर्नशिप डिपॉजिट मांगा गया।,scam,internship,hi,synthetic,synthetic-test-012
+A research lab posts a summer internship on its official careers page with duties and selection dates.,legitimate,internship,en,synthetic,synthetic-test-013
+Research lab ne summer internship careers page par duties aur selection dates ke saath post ki.,legitimate,internship,hinglish,synthetic,synthetic-test-014
+अनुसंधान प्रयोगशाला ने आधिकारिक करियर पेज पर ग्रीष्म इंटर्नशिप की सूचना दी।,legitimate,internship,hi,synthetic,synthetic-test-015
+A forwarded internship announcement asks students to contact a recruiter for missing programme details.,ambiguous,internship,en,synthetic,synthetic-test-016
+Forwarded internship post kehti hai ki programme details recruiter se poochho.,ambiguous,internship,hinglish,synthetic,synthetic-test-017
+इंटर्नशिप की अधिक जानकारी के लिए भर्ती संपर्क करने को कहती है।,ambiguous,internship,hi,synthetic,synthetic-test-018
+A message advertises easy work from home and says candidates must pay a verification charge before receiving tasks.,scam,work_from_home,en,synthetic,synthetic-test-019
+Work from home tasks milne se pehle verification charge dena zaroori bataya.,scam,work_from_home,hinglish,synthetic,synthetic-test-020
+घर से काम के टास्क मिलने से पहले सत्यापन शुल्क मांगा गया।,scam,work_from_home,hi,synthetic,synthetic-test-021
+The university shared a remote assistant vacancy and says candidates should apply directly through the employer portal.,legitimate,work_from_home,en,synthetic,synthetic-test-022
+University ne remote assistant role share kiya; apply employer portal par directly karna hai.,legitimate,work_from_home,hinglish,synthetic,synthetic-test-023
+विश्वविद्यालय ने दूरस्थ सहायक पद साझा कर नियोक्ता पोर्टल से आवेदन करने को कहा।,legitimate,work_from_home,hi,synthetic,synthetic-test-024
+"A remote assistant advertisement says details will be shared after applicants register, without explaining what registration collects.",ambiguous,work_from_home,en,synthetic,synthetic-test-025
+"Assistant ad kehti hai registration ke baad details milengi; form kya collect karta hai, clear nahi.",ambiguous,work_from_home,hinglish,synthetic,synthetic-test-026
+सहायक पद की पूरी जानकारी बाद में देने का वादा है।,ambiguous,work_from_home,hi,synthetic,synthetic-test-027
+A task recruiter asks workers to top up a wallet to activate paid rating assignments.,scam,task,en,synthetic,synthetic-test-028
+Paid rating tasks activate karne ko wallet top-up karne bola.,scam,task,hinglish,synthetic,synthetic-test-029
+टास्क रेटिंग का काम शुरू करने के लिए वॉलेट में पैसे डालने को कहा।,scam,task,hi,synthetic,synthetic-test-030
+A student club invites volunteers to review its website; participation is unpaid and no account top-up is requested.,legitimate,task,en,synthetic,synthetic-test-031
+"Student club website review ke volunteers maangta hai; unpaid activity hai, top-up nahi.",legitimate,task,hinglish,synthetic,synthetic-test-032
+छात्र क्लब वेबसाइट की स्वैच्छिक समीक्षा के लिए सदस्यों को बुलाता है।,legitimate,task,hi,synthetic,synthetic-test-033
+A forwarded rating-task invitation links to an unfamiliar app and provides little information about the organiser.,ambiguous,task,en,synthetic,synthetic-test-034
+Rating task invite unfamiliar app ka link bhejta hai aur organiser ki detail nahi deta.,ambiguous,task,hinglish,synthetic,synthetic-test-035
+"अनजान ऐप पर रेटिंग का निमंत्रण है, पर संचालक का पता नहीं।",ambiguous,task,hi,synthetic,synthetic-test-036
+A scheme message claims a government payment is guaranteed if recipients transfer a verification charge to a private number.,scam,government_scheme,en,synthetic,synthetic-test-037
+Government benefit guaranteed bolkar private number par verification charge transfer karne ko kaha.,scam,government_scheme,hinglish,synthetic,synthetic-test-038
+एक निजी नंबर पर सत्यापन शुल्क भेजने पर लाभ पक्का बताया।,scam,government_scheme,hi,synthetic,synthetic-test-039
+A public information page explains how to apply for a subsidy and says no intermediary is needed.,legitimate,government_scheme,en,synthetic,synthetic-test-040
+Public info page subsidy apply process batata hai aur intermediary ki zaroorat nahi kehta.,legitimate,government_scheme,hinglish,synthetic,synthetic-test-041
+सरकारी सूचना पृष्ठ में आवेदन की प्रक्रिया है और मध्यस्थ की जरूरत नहीं।,legitimate,government_scheme,hi,synthetic,synthetic-test-042
+A community post describes a new grant and asks readers to contact an organiser for eligibility details.,ambiguous,government_scheme,en,synthetic,synthetic-test-043
+Community post new grant batati hai; eligibility ke liye organiser se contact karne ko kehti hai.,ambiguous,government_scheme,hinglish,synthetic,synthetic-test-044
+नए अनुदान की समुदाय सूचना में पात्रता की जानकारी के लिए संपर्क करने को कहा है।,ambiguous,government_scheme,hi,synthetic,synthetic-test-045
+A forwarded award notice says selection is certain and requests an urgent payment to release the grant.,scam,scholarship,en,synthetic,synthetic-test-046
+Award notice selection guaranteed bolta hai aur grant release ke liye urgent payment maangta hai.,scam,scholarship,hinglish,synthetic,synthetic-test-047
+अनुदान जारी करने के लिए तुरंत भुगतान करने को कहा गया।,scam,scholarship,hi,synthetic,synthetic-test-048
+The foundation publishes selection criteria and contact details and does not request a payment to submit an application.,legitimate,scholarship,en,synthetic,synthetic-test-049
+Foundation selection criteria aur contact details publish karti hai; apply karne ki payment nahi.,legitimate,scholarship,hinglish,synthetic,synthetic-test-050
+फाउंडेशन चयन मानदंड और संपर्क पता देती है; आवेदन शुल्क नहीं है।,legitimate,scholarship,hi,synthetic,synthetic-test-051
+"A forwarded scholarship link is missing, and the post does not explain how applicants are selected.",ambiguous,scholarship,en,synthetic,synthetic-test-052
+Forwarded scholarship post mein link missing hai aur selection process clear nahi.,ambiguous,scholarship,hinglish,synthetic,synthetic-test-053
+आवेदकों के चयन की विधि और आधिकारिक आवेदन लिंक नहीं दिया।,ambiguous,scholarship,hi,synthetic,synthetic-test-054
+An urgent account alert links to an unfamiliar sign-in page and requests card details and a one-time code.,scam,phishing,en,synthetic,synthetic-test-055
+Urgent account alert unfamiliar sign-in page par card details aur OTP maangta hai.,scam,phishing,hinglish,synthetic,synthetic-test-056
+तुरंत खाता सत्यापन लिंक कार्ड विवरण और वन-टाइम कोड मांगता है।,scam,phishing,hi,synthetic,synthetic-test-057
+"The bank app notification asks the customer to review activity inside the installed app, not follow a message link.",legitimate,phishing,en,synthetic,synthetic-test-058
+"Bank notification installed app mein activity check karne ko kehti hai, message link nahi.",legitimate,phishing,hinglish,synthetic,synthetic-test-059
+"बैंक ऐप में खाता गतिविधि जांचने की सूचना है, कोई लिंक नहीं।",legitimate,phishing,hi,synthetic,synthetic-test-060
+An account notice asks the user to review a security setting but the source and destination are unclear.,ambiguous,phishing,en,synthetic,synthetic-test-061
+"Account notice security setting review karne ko bolta hai, source confirm nahi.",ambiguous,phishing,hinglish,synthetic,synthetic-test-062
+"खाता सूचना सुरक्षा सेटिंग जांचने को कहती है, पर स्रोत स्पष्ट नहीं।",ambiguous,phishing,hi,synthetic,synthetic-test-063
+A benefit alert uses https://myscheme.gov.in.claim-now.example to collect a processing payment.,scam,url,en,synthetic,synthetic-test-064
+Benefit alert https://myscheme.gov.in.claim-now.example par payment collect karta hai.,scam,url,hinglish,synthetic,synthetic-test-065
+"लाभ का लिंक आधिकारिक वेबसाइट जैसा दिखता है, पर भुगतान मांगता है।",scam,url,hi,synthetic,synthetic-test-066
+The scholarship provider directs applicants to the institution's published portal and does not request credentials by message.,legitimate,url,en,synthetic,synthetic-test-067
+"Scholarship provider published portal par bhejta hai, message se credentials nahi leta.",legitimate,url,hinglish,synthetic,synthetic-test-068
+छात्रवृत्ति संस्था आवेदकों को अपने प्रकाशित पोर्टल पर भेजती है।,legitimate,url,hi,synthetic,synthetic-test-069
+A benefit post links to a page with a long address and no explanation of who operates it.,ambiguous,url,en,synthetic,synthetic-test-070
+Benefit post ka URL bahut lamba hai aur operator ka naam nahi.,ambiguous,url,hinglish,synthetic,synthetic-test-071
+"लाभ संदेश में लंबा वेब पता है, पर संचालक कौन है नहीं बताया।",ambiguous,url,hi,synthetic,synthetic-test-072

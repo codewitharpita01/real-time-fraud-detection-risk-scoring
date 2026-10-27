@@ -1,4 +1,4 @@
-# Real-Time AI-Based Fraud Detection System for Indian Students
+﻿# Real-Time AI-Based Fraud Detection System for Indian Students
 
 ScamShield is a local Streamlit prototype for screening job, internship, work-from-home, online task, government scheme, scholarship, phishing, and URL submissions. It provides evidence and safety guidance; it does not prove fraud or authenticity.
 
